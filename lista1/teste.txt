@@ -1,0 +1,12 @@
+
+Disparando amazonas.uol.com.br [200.147.35.224] com 32 bytes de dados:
+Resposta de 200.147.35.224: bytes=32 tempo=45ms TTL=239
+Resposta de 200.147.35.224: bytes=32 tempo=42ms TTL=239
+Resposta de 200.147.35.224: bytes=32 tempo=41ms TTL=239
+Resposta de 200.147.35.224: bytes=32 tempo=42ms TTL=239
+
+Estat¡sticas do Ping para 200.147.35.224:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 41ms, M ximo = 45ms, M‚dia = 42ms
